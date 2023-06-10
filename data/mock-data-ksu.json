@@ -1,0 +1,41 @@
+[
+    {
+        "id_pengajuan": 8089291,
+        "nama_anggota": "Joni joni yes papa",
+        "tanggal_pengajuan": "01 Dec 2023",
+        "jenis_jaminan": [
+            {
+                "jaminan": "kendaraan"
+            },
+            {
+                "jaminan": "sertifikat"
+            }
+        ],
+        "jumlah_pinjaman": 1000000,
+        "status": "sehat"
+    },
+    {
+        "id_pengajuan": 8089291,
+        "nama_anggota": "Joni joni yes papa",
+        "tanggal_pengajuan": "01 Dec 2023",
+        "jenis_jaminan": [
+            {
+                "jaminan": "kendaraan"
+            }
+        ],
+        "jumlah_pinjaman": 1000000,
+        "status": "macet"
+    },
+    {
+        "id_pengajuan": 8089291,
+        "nama_anggota": "Joni joni yes papa",
+        "tanggal_pengajuan": "01 Dec 2023",
+        "jenis_jaminan": [
+            {
+                "jaminan": "sertifikat"
+            }
+        ],
+        "jumlah_pinjaman": 1000000,
+        "status": "telat"
+    }
+]
